@@ -9,9 +9,6 @@ A friendly, safety-first health information chatbot built with Streamlit and Gro
 - Example questions to guide users
 - Sidebar with safety disclaimers and quick reset
 
-## Demo
-![screenshot](screenshot.png) <!-- Add a screenshot if available -->
-
 ## Getting Started
 
 ### Prerequisites
